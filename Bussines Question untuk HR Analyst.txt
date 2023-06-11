@@ -1,0 +1,13 @@
+Bussines Question untuk HR Analyst
+*Perhatikan data 
+
+1. Tampilkan Rata-rata salary Karyawan Laki-laki / Perempuan
+2. Tampilkann setatus tiap karyawan per departement
+3. tampikan Siapa gaji tertinggi, Laki-laki/Perempuan tiap departement 
+4. Tampilkan jumlah source recruitment karyawan
+5. tampilkan rata-rata absensi tiap departement
+6. Tampilkan jumlah employment status berdasarkan department
+7. tampilkan Top 5 Departement dengan gaji terendah
+8. Tampilkan detail karyawan yang performancenya fully Meets yang berasal dari department IT
+9. tampilkan race terbanyak tiap departement
+10. tampilkan detail karyawan, berdasarkan umur termuda saat ini laki laki dan perempuan tiap department
